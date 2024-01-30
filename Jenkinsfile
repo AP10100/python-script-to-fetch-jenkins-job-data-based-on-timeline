@@ -13,7 +13,7 @@ pipeline {
             steps {
                 // Run the Python script
                 echo "running .py file"
-                sh 'python3 main.py'
+                sh 'python3 jan_30.py'
                 echo "completed"
             }
         }

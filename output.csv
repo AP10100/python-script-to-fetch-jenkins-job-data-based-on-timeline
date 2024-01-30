@@ -1,0 +1,10 @@
+Job Name,Branch Name,Build Number,Timestamp,Result
+jan_29,main,1,"Jan 29, 2024, 09:36 AM",FAILURE
+notifier_multiB,master,48,"Jan 23, 2024, 11:55 AM",SUCCESS
+notifier_multiB,notifier_1,4,"Jan 23, 2024, 11:55 AM",FAILURE
+sample_multibranch,main,12,"Jan 23, 2024, 11:55 AM",FAILURE
+sample_multibranch,sample_2,6,"Jan 23, 2024, 11:55 AM",FAILURE
+sample_multibranch,sample_3,6,"Jan 23, 2024, 11:55 AM",FAILURE
+sample_multibranch,sample_4,6,"Jan 23, 2024, 11:55 AM",FAILURE
+testing,main,7,"Jan 23, 2024, 11:55 AM",SUCCESS
+testing,testing_1,8,"Jan 23, 2024, 11:55 AM",SUCCESS
